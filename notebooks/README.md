@@ -6,8 +6,8 @@
 
 创建Conda环境（需先安装Anaconda）
 ```bash
-conda create -n joyrl python=3.7
-conda activate joyrl
+conda create -n EasyRl python=3.7
+conda activate EasyRl
 pip install -r requirements.txt
 ```
 
